@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @PangeaDan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PangeaDan/PangeaDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in computers, the internet, society, the planet and exploration through skiing and scuba diving.
+- 🌱 I’m currently learning more about computers and programming.
+- 💞️ I’m looking to collaborate on a web app for my new internet media company. 
+- 📫 How to reach me dan@pangeacreatives.com
